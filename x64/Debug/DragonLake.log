@@ -1,0 +1,43 @@
+﻿  game.cpp
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(171,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(204,21): warning C4244: =: преобразование "time_t" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(249,1): warning C4305: +=: усечение из "double" в "float"
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(250,1): warning C4305: -=: усечение из "double" в "float"
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(254,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(257,21): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(263,1): warning C4305: +=: усечение из "double" в "float"
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(274,34): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(287,46): warning C4244: =: преобразование "time_t" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(370,34): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(370,85): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(380,85): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(380,65): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(384,89): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(384,65): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(388,89): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(388,65): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(445,77): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(458,75): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(458,52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(475,22): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(494,40): warning C4244: =: преобразование "time_t" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(522,27): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(544,33): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(544,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(552,12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(552,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(572,27): warning C4244: =: преобразование "time_t" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(598,17): warning C4305: =: усечение из "double" в "float"
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(604,18): warning C4305: =: усечение из "double" в "float"
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(642,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(643,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(650,69): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(650,69): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(650,87): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(650,87): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(655,69): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(655,69): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(655,97): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(655,97): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Work\VisualStudio\DragonLake\DragonFramework\game.cpp(670,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DragonLake.vcxproj -> C:\Work\VisualStudio\DragonLake\x64\Debug\DragonLake.exe
